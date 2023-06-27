@@ -22,4 +22,7 @@ decision tree model.
 
 ![27](https://github.com/Saptarshi2120/Credit_card_fraud_detection/assets/98098917/d897d293-a16a-44c3-8096-f213d42886ed)
 
+![29](https://github.com/Saptarshi2120/Credit_card_fraud_detection/assets/98098917/ba3e70b5-e391-4f17-8b49-72dcbd48d388)
+
+
 ![30](https://github.com/Saptarshi2120/Credit_card_fraud_detection/assets/98098917/8edd86b4-01bc-4bf8-94f8-77ea72ee1d42)
