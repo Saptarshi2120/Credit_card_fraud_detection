@@ -8,6 +8,11 @@ we were able to build an intelligent system that could predict and flag suspicio
 systematically search and tune hyperparameters, resulting in the selection of the optimal hyperparameter configuration for the 
 decision tree model.
 
+
+[Pandas_Profiling_Report.pdf](https://github.com/Saptarshi2120/Credit_card_fraud_detection/files/11877941/Pandas_Profiling_Report.pdf)
+
+
+
 ![1](https://github.com/Saptarshi2120/Credit_card_fraud_detection/assets/98098917/b33d267f-22b3-4794-bcd3-ab2e60b57e13)
 
 ![2](https://github.com/Saptarshi2120/Credit_card_fraud_detection/assets/98098917/5b4ad9d9-32a0-411c-af3f-d4453c94e052)
